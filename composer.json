@@ -1,5 +1,5 @@
 {
-    "name": "dotzero/laravel-amocrm",
+    "name": "inhouse/laravel-amocrm",
     "description": "An amoCRM bridge for Laravel 5",
     "license": "MIT",
     "keywords": ["laravel", "amocrm", "crm", "api"],
